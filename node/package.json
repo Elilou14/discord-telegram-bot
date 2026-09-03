@@ -8,5 +8,8 @@
     "test": "node --test",
     "start": "node bot.js"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.27.0"
+  }
 }
